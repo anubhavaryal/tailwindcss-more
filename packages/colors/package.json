@@ -4,7 +4,7 @@
   "description": "PostCSS plugin for Tailwind CSS that adds additional color utilities.",
   "main": "index.ts",
   "author": "Anubhav Aryal",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/anubhavaryal/tailwindcss-more.git",

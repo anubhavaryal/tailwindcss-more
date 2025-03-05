@@ -1,17 +1,14 @@
 {
   "name": "tailwindcss-more",
   "version": "0.1.0",
-  "description": "",
+  "description": "A collection of various TailwindCSS utilities.",
   "main": "index.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/anubhavaryal/tailwindcss-more.git"
   },
   "author": "Anubhav Aryal",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/anubhavaryal/tailwindcss-more/issues"
   },

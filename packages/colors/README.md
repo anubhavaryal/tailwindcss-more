@@ -4,7 +4,7 @@ A PostCSS plugin for TailwindCSS v4 that adds a few new color utilities.
 
 ## Installation
 
-Install both `tailwind` and `postcss`
+Install both `tailwindcss` and `postcss`
 
 ```sh
 npm install tailwindcss @tailwindcss/postcss postcss
